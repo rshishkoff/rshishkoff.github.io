@@ -4,7 +4,7 @@
     <title><![CDATA[Ray's GitHub]]></title>
     <link href="http://rshishkoff.github.io/atom.xml" rel="self"/>
     <link href="http://rshishkoff.github.io/"/>
-    <updated>2016-04-27T21:46:45-05:00</updated>
+    <updated>2016-04-27T21:50:32-05:00</updated>
     <id>http://rshishkoff.github.io/</id>
     <author>
         <name><![CDATA[Ray Shishkoff]]></name>
@@ -12,5 +12,14 @@
     </author>
     <generator uri="http://octopress.org/">Octopress</generator>
 
+    
+    <entry>
+        <title type="html"><![CDATA[Work In Progress]]></title>
+        <link href="http://rshishkoff.github.io/blog/2016/04/27/work-in-progress/"/>
+        <updated>2016-04-27T21:47:33-05:00</updated>
+        <id>http://rshishkoff.github.io/blog/2016/04/27/work-in-progress</id>
+        <content type="html"><![CDATA[<p>Still trying to get this site up and running. Bear with me&hellip;</p>
+]]></content>
+    </entry>
     
 </feed>
