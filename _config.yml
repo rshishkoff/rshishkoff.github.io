@@ -112,7 +112,7 @@ oscailte:
         message: "Available for new opportunities"
     social:
         visible: true
-        title: # Defaults to "Follow me!" if not present
+        title: "Social" # Defaults to "Follow me!" if not present
         adn: # App.net
         coinbase:
         dribbble:
@@ -122,13 +122,13 @@ oscailte:
         github:
             user: rshishkoff
             show_profile_link: true
-        googleplus:
+        googleplus: 114243692075184140768
         hackernews:
         keybase:
         linkedin:
         pinterest:
         reddit:
-        stackoverflow:
+        stackoverflow: 6267337
         twitter:
             user: rayshishkoff
             widget: # Shows the Recent Tweets widget in sidebar
