@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[Ray's GitHub]]></title>
+    <link href="http://rshishkoff.github.io/atom.xml" rel="self"/>
+    <link href="http://rshishkoff.github.io/"/>
+    <updated>2016-04-27T21:25:08-05:00</updated>
+    <id>http://rshishkoff.github.io/</id>
+    <author>
+        <name><![CDATA[Ray Shishkoff]]></name>
+        
+    </author>
+    <generator uri="http://octopress.org/">Octopress</generator>
+
+    
+</feed>
