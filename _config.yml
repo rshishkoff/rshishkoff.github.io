@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://rshishkoff.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Ray's GitHub
+subtitle:
+author: Ray Shishkoff
 simple_search: https://www.google.com/search
 description:
 
@@ -64,13 +64,13 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: rshishkoff
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: rayshishkoff
 twitter_tweet_button: true
 
 # Google +1
@@ -100,6 +100,8 @@ google_analytics_tracking_id:
 # Facebook Like
 facebook_like: false
 
+site.email: rshishkoff@gmail.com
+
 # Oscailte Theme Settings
 oscailte:
     hire: # The "Available for Hire" widget
@@ -120,8 +122,8 @@ oscailte:
             user:
             app_id: # For enabling Open Graph metadata
         github:
-            user:
-            show_profile_link:
+            user: rshishkoff
+            show_profile_link: true
         googleplus:
         hackernews:
         keybase:
