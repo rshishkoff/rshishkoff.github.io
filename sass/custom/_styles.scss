@@ -1,0 +1,21 @@
+// This File is imported last, and will override other styles in the cascade
+// Add styles here to make changes without digging in too much
+
+.hero {
+    .hero-buttons a {
+        background: #222222;
+        color: white;
+        text-transform: uppercase;
+        white-space: nowrap;
+        display: inline-block;
+        font-weight: bold;
+      }
+}
+
+.hero-buttons a {
+  margin: 0 30px 10px 0;
+
+  &:last-child {
+    margin: 0;
+  }
+}

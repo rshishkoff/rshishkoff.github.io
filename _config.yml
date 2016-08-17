@@ -42,7 +42,7 @@ rdiscount:
 highlighter: pygments # default python pygments have been replaced by pygments.rb
 
 paginate: 10          # Posts per page on the blog index
-paginate_path: "blog/:num"  # Directory base for pagination URLs eg. /posts/2/
+paginate_path: "blog/post/:num"  # Directory base for pagination URLs eg. /posts/2/
 recent_posts: 5       # Posts in the sidebar Recent Posts section
 excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
 excerpt_separator: "<!--more-->"
@@ -65,7 +65,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 
 # Github repositories
 github_user: rshishkoff
-github_repo_count: 0
+github_repo_count: 2
 github_show_profile_link: true
 github_skip_forks: true
 
@@ -73,8 +73,7 @@ github_skip_forks: true
 twitter_user: rayshishkoff
 twitter_tweet_button: true
 
-# Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
@@ -122,13 +121,13 @@ oscailte:
         github:
             user: rshishkoff
             show_profile_link: true
-        googleplus:
+        googleplus: 114243692075184140768
         hackernews:
         keybase:
-        linkedin:
+        linkedin: raymond-shishkoff-a77126a
         pinterest:
         reddit:
-        stackoverflow:
+        stackoverflow: 6267337
         twitter:
             user: rayshishkoff
             widget: # Shows the Recent Tweets widget in sidebar
